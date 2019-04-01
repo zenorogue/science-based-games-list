@@ -123,7 +123,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition](https://boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition)
 * models space mission logistics
 * living game board and rules incorporate actual data as it is discovered
-* realistic resource usage and phyisics modeling
+* realistic resource usage and physics modeling
 * board game ($)
 
 #### Osmos
@@ -132,6 +132,22 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * gravity and conservation of momentum
 * puzzle / action / strategy
 * GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($)
+
+#### HelloQuantum
+
+* [helloquantum.mybluemix.net](http://helloquantum.mybluemix.net/)
+* quantum operations on 2 quibits
+* puzzle
+* iOS (free)
+* blog post: [Hello Quantum: Taking your first steps into quantum computation](https://medium.com/qiskitters/hello-quantum-2c1c00fe830c)
+* its terminal-based open-source version: https://github.com/decodoku/Quantum_Programming_Tutorial
+
+#### Interplanetary Postal Service
+
+* [github.com/s-macke/Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service)
+* Fluid dynamics
+* Lunar Lander genre
+* web (free of charge)
 
 ### Chemistry
 
@@ -148,6 +164,50 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * board game ($)
 
 ### Biology
+
+#### Cellcraft
+
+* [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
+* cell biology
+* real-time strategy
+* web-based Flash (free of charge)
+
+#### Cell Lab: Evolution Sandbox
+
+* [www.cell-lab.net](http://www.cell-lab.net) or [Google Play Store](https://play.google.com/store/apps/details?id=com.saterskog.cell_lab)
+* evolution, cell biology
+* design of reproducing organisms
+* Android (free of charge)
+
+#### Meta!Blast
+
+* [www.metablast.org](http://www.metablast.org/) or [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
+* plant and cell biology
+* flight simulator
+* nice descriptions of encountered elements
+* MacOS, Windows (free of charge)
+
+#### Foldit
+
+* [fold.it](https://fold.it)
+* protein conformation
+* 3d puzzle
+* citizen science
+* GNU/Linux, MacOS, Windows (free of charge)
+
+#### Pathogenesis
+
+* [boardgamegeek.com/boardgame/199309/pathogenesis](https://boardgamegeek.com/boardgame/199309/pathogenesis)
+* pathogens and immune response
+* a deck building game
+* board game ($)
+* it was a [successful Kickstarter project](https://www.kickstarter.com/projects/lorencunningham/pathogenesis)
+
+#### Evolution: the origin of species
+
+* [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
+* evolution
+* card game ($)
 
 #### Cytosis
 
@@ -174,35 +234,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * board game ($)
 
 
-#### Cellcraft
-
-* [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
-* cell biology
-* real-time strategy
-* web-based Flash (free of charge)
-
-#### Meta!Blast
-
-* [www.metablast.org](http://www.metablast.org/) or [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
-* plant and cell biology
-* flight simulator
-* nice descriptions of encountered elements
-* MacOS, Windows (free of charge)
-
-#### Foldit
-
-* [fold.it](https://fold.it)
-* protein conformation
-* 3d puzzle
-* citizen science
-* GNU/Linux, MacOS, Windows (free of charge)
-
-#### Evolution: the origin of species
-
-* [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
-* evolution
-* card game ($)
-
 #### Digestix
 
 * [learning.alimentarium.ch/en/games](https://learning.alimentarium.ch/en/games)
@@ -214,9 +245,17 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [boardgamegeek.com/boardgame/98918/bios-genesis](https://boardgamegeek.com/boardgame/98918/bios-genesis)
 * players start as organic compounds shortly after Earth's formation
-* create autocatalytic life and darwinian life
+* create autocatalytic life and Darwinian life
 * Players can play cooperative, competitive, or solitaire.
 * board game ($)
+
+#### Crescent Loom
+
+* [wick.works/crescentloom/](http://wick.works/crescentloom/)
+* Players build underwater creatures (a la Spore) and get them to move by weaving neurons into a simple brain.
+* Neurons are simulated using a compartmental RC-circuit model.
+* Window/Mac/Linux ($), web (demo, free of charge)
+* [Kickstarter founded: Crescent Loom: weave neurons, stitch muscles, create life.](https://www.kickstarter.com/projects/wickworks/crescent-loom-stitch-muscles-weave-neurons-create)
 
 ### Computer science
 
@@ -263,6 +302,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * see also: [Lessons Learned from Shenzhen I/O](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
 * GNU/Linux ($), MacOS ($), Windows ($)
 
+#### Opus Magnum
+
+* [www.zachtronics.com/opus-magnum/](http://www.zachtronics.com/opus-magnum/)
+* programming
+* puzzle
+* author of other games: http://www.zachtronics.com/ including SpaceChem, TIS 100, Shenzhen I/O
+* GNU/Linux ($), MacOS ($), Windows ($)
+
 #### Robozzle
 
 * [http://www.robozzle.com/](http://www.robozzle.com/)
@@ -285,7 +332,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [https://code.org/learn](https://code.org/learn)
 * many puzzle games about programming and algorithms
-* some famous licences (e.g., Minecraft, Disney)
+* some famous licenses (e.g., Minecraft, Disney)
 * web-based (free of charge)
 * part [proprietary](https://code.org/tos), part Apache 2.0: [https://github.com/code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org)
 
@@ -312,7 +359,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [alexnisnevich.github.io/untrusted/](http://alexnisnevich.github.io/untrusted/)
 * programming in JavaScript
 * roguelike, puzzle
-* web, Javascript (free of charge)
+* web, JavaScript (free of charge)
 * dual licensed proprietary and CC BY-NC-SA 3.0: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
 
 #### Factorio
@@ -330,6 +377,22 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * Like a cross between SpaceChem and Factorio
 * Windows ($), Mac ($), GNU/Linux ($)
+
+#### Google Turing Doodle
+
+* [https://www.google.com/doodles/alan-turings-100th-birthday](https://www.google.com/doodles/alan-turings-100th-birthday)
+* Turing tape programming
+* puzzle games
+* web-based (free of charge)
+* Apache license: [https://github.com/google/turing-doodle](https://github.com/google/turing-doodle)
+
+#### WarriorJS
+
+* [warrior.js.org](https://warrior.js.org/)
+* programming and AI
+* code-writing
+* web-based (free of charge)
+* MIT License: [https://github.com/olistic/warriorjs](https://github.com/olistic/warriorjs)
 
 ### Health
 
@@ -359,7 +422,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [agameofnumbers.com](http://agameofnumbers.com/)
   * also: [playable demo](http://joedev.net/JSIL/Numbers/)
   * [Ludum Dare - an almost success story](http://www.ludumdare.com/compo/2013/08/02/an-almost-success-story/)
-* arithmetics
+* arithmetic
 * puzzle/maze
 * GNU/Linux ($), MacOS ($), Windows ($)
 
@@ -374,7 +437,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 #### HydraSlayer
 
 * [www.roguetemple.com/z/hydra/](http://www.roguetemple.com/z/hydra/)
-* arithmetics, a bit of number theory
+* arithmetic, a bit of number theory
 * a rogue-like game
 * GNU/Linux, MacOS, Windows, Android ([pay-what-you-want](https://zenorogue.itch.io/hydra-slayer))
 * license: version 17 and Android version GNU GPLv2 (code on homepage); version 18 appears to be proprietary
@@ -398,6 +461,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * planar geometry
 * web, Android, iOS (free of charge)
 
+#### Engare
+* [Engare](http://www.engare.design/) (and [Engare on Steam](http://store.steampowered.com/app/415170/Engare/))
+* geometry, curves
+* motion puzzle
+* MacOS ($), Windows ($)
+
 #### Refractions
 
 * [centerforgamescience.org/blog/portfolio/refraction](http://centerforgamescience.org/blog/portfolio/refraction/)
@@ -414,6 +483,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * web (free of charge)
 * MIT license: [https://github.com/jacquerie/hh](https://github.com/jacquerie/hh)
+
+#### 4D Toys
+
+* [4dtoys.com](http://4dtoys.com/)
+* playing with 4-dimensional shapes
+* Windows ($)
 
 ### Sociology and economy
 
@@ -465,7 +540,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 There are a few games that *feel* somewhat related (even if not that much science-based).
 I (@stared) considered putting them in psychology/sociology, but it turned out to be a controversial issue.
-Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life siutation.
+Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life situation.
 
 #### Depression Quest
 
@@ -521,7 +596,7 @@ The easiest way is to edit this file, commit and create a Pull Request.
 Remember to include:
 
 * working link (and its nicer version), e.g. `[immunology-fps.edu](https://immunology-fps.edu)`
-* field of science or enginering, e.g. `immunology`
+* field of science or engineering, e.g. `immunology`
 * type of game `first-person shooter`
 * (optional) technology or system, e.g. `Android, iOS, web`
 * (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
